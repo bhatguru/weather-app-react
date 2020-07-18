@@ -1,7 +1,7 @@
 # *weather-app-react*
-![Architecture Diagram](/weather-app-react/weather-app/src/assets/pc.png)
+![Architecture Diagram](/src/assets/pc.png)
 
-![Architecture Diagram](/weather-app-react/weather-app/src/assets/phone.png)
+![Architecture Diagram](/src/assets/phone.png)
 
 ### Hello Guy's,
 
