@@ -1,7 +1,7 @@
 # *weather-app-react*
-![PC](/src/assets/Screenshot from 2020-07-18 12-34-07.png)
+![PC](/src/assets/Screenshot1.png)
 
-![phone](/src/assets/Screenshot from 2020-07-18 12-35-03.png)
+![phone](/src/assets/Screenshot2.png)
 
 ### Hello Guy's,
 
